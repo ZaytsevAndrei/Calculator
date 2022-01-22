@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "Calculator\Calculator.csproj", "{C5157553-F2A7-4310-B584-B28B5FD53E23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "..\Recursion\Recursion\Recursion.csproj", "{293F2AA9-0085-49D3-BDDB-CA6AE9C3B2E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "..\Recursion\Recursion\Recursion.csproj", "{293F2AA9-0085-49D3-BDDB-CA6AE9C3B2E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonachi", "Fibonachi\Fibonachi.csproj", "{045AE2BA-9E21-4A78-8AAC-A9B7760A7231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{8557488E-5849-4854-B928-155BB4641411}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{293F2AA9-0085-49D3-BDDB-CA6AE9C3B2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{293F2AA9-0085-49D3-BDDB-CA6AE9C3B2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{293F2AA9-0085-49D3-BDDB-CA6AE9C3B2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{045AE2BA-9E21-4A78-8AAC-A9B7760A7231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{045AE2BA-9E21-4A78-8AAC-A9B7760A7231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{045AE2BA-9E21-4A78-8AAC-A9B7760A7231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{045AE2BA-9E21-4A78-8AAC-A9B7760A7231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8557488E-5849-4854-B928-155BB4641411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8557488E-5849-4854-B928-155BB4641411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8557488E-5849-4854-B928-155BB4641411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8557488E-5849-4854-B928-155BB4641411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
